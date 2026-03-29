@@ -1,7 +1,6 @@
 # ZuriHavior.github.io
 <!DOCTYPE HTML>
 <html>
-<title>Zvior.Portfolio</title>
 <head>
     <link rel="stylesheet"  type="text/css" href="StyleSheet1.css"/>
 </head>
