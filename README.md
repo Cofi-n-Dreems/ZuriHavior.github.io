@@ -46,7 +46,6 @@
         <h4 style="color: #CDDECB">3D Modeler and Animator</h4>
         <h4 style="color: #CDDECB">Adobe Certified Professional<br><a href="https://drive.google.com/file/d/1fOwcr4eSi3gHINxKaN-8scJuijj8zy8Z/view?usp=sharing" target="_blank">Adobe Certificate</a></h4>
         <h2 style="color: #CDDECB;">My Projects:</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/gi1vHyUEC_k?si=EjKE1dlC1o3nG46g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </section>
 </body>
 </html>
