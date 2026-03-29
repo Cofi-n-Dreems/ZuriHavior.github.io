@@ -1,1 +1,53 @@
 # ZuriHavior.github.io
+<!DOCTYPE HTML>
+<html>
+<title>Zvior.Portfolio</title>
+<head>
+    <link rel="stylesheet"  type="text/css" href="StyleSheet1.css"/>
+</head>
+<body style="background-color: #122B1D;">
+    <h1 style="color: #CDDECB; ">Zuri Havior is </h1>
+    <section>
+        <ul>
+            <li>Creative</li>
+            <li>Hardworking</li>
+            <li>Curious</li>
+            <li>A Dreamer</li>
+        </ul>
+        <h2 style="color: #CDDECB; ">About Me:</h2>
+        <p class=double style="color: #CDDECB;"> My name is Zuri Havior. I'm an innovative individual with a passion for reading, writing, coding, and several other things,<br>My dream jobs include Front-End Web Developer, Graphic Designer, and UI/UX Designer.</br></p>
+        <img src="https://5starassets.blob.core.windows.net/article-photos/2630222/44ba7af4-4c3d-4c44-bfd7-cfc8f2925dbb_640x480.jpg" width="700" height="500" style="border: 3px dashed #9CC97F; "/>
+        <p class="double" style="color: #CDDECB;"> As of May 2025, I've graduated from Lake Ridge Highschool<br>and as of Fall 2025 I will be attending UNT for a Bachelor’s Degree in Computer Science.<br /> </p>
+        <h2 style="color: #CDDECB; ">Languages I’m Currently Learning:</h2>
+        <style>
+            button {
+                background-color: #90B7BF;
+                width: 300px;
+                border: 15px;
+                padding: 50px;
+                margin: auto;
+                margin-bottom: 10px;
+                display: block;
+            }
+        </style>
+        <style>
+            h4 {
+                background-color: #90B7BF;
+                width: 300px;
+                border: 15px;
+                padding: 50px;
+                margin: auto;
+                margin-bottom: 10px;
+            }
+        </style>
+        <a href="https://html.com/"><button style="color: #CDDECB"><img src="https://th.bing.com/th/id/OIP.gXi6fGKReovWKXweUEBNqQHaHa?rs=1&pid=ImgDetMain" width="200" height="200" /><br>Html (Hypertext Markup Language):<br>the standard markup language for documents designed to be displayed in a web browser</button></a>
+        <a href="https://html.com/css/"><button style="color: #CDDECB"><img src="https://www.lzzet.com/api/static/image/impression/css.svg" width="200" height="200" /><br>CSS (Cascading Style Sheets):<br> a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML</button></a>
+        <a href="https://www.python.org/"><button style="color: #CDDECB"><img src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?rs=1&pid=ImgDetMain" width="200" height="200" /><br>Python:<br>a high-level, general-purpose programming language</button></a>
+        <h2 style="color: #CDDECB">My Other Skills Include:</h2>
+        <h4 style="color: #CDDECB">3D Modeler and Animator</h4>
+        <h4 style="color: #CDDECB">Adobe Certified Professional<br><a href="https://drive.google.com/file/d/1fOwcr4eSi3gHINxKaN-8scJuijj8zy8Z/view?usp=sharing" target="_blank">Adobe Certificate</a></h4>
+        <h2 style="color: #CDDECB;">My Projects:</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gi1vHyUEC_k?si=EjKE1dlC1o3nG46g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+</body>
+</html>
