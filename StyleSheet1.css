@@ -1,0 +1,97 @@
+/*Typing Animation*/
+ul {
+    list-style: none;
+    height: 55px;
+    overflow: hidden;
+}
+
+    ul li {
+        color: #9CC97F;
+        font-size: 50px;
+        position: relative;
+        top: 0;
+        margin: 0;
+        animation: scrolling 8s steps(4) infinite;
+    }
+
+        ul li:nth-child(1) {
+            color: #90B7BF
+        }
+
+        ul li:nth-child(2) {
+            color: #90B7BF
+        }
+
+        ul li:nth-child(3) {
+            color: #90B7BF
+        }
+
+        ul li:nth-child(4) {
+            color: #90B7BF
+        }
+
+        ul li::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            background-color: #122B1D;
+            border-left: 5px solid #122B1D;
+            animation: typing 2s steps(100) infinite;
+        }
+
+@keyframes typing {
+    100% {
+        left: 100%;
+        margin: 0 -40px 0 35px;
+    }
+}
+
+@keyframes scrolling {
+    100% {
+        top: -240px;
+    }
+}
+/*Glowing Button Animation*/
+button {
+    box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF;
+}
+
+    button:hover {
+        box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF, 0 0 50px #90B7BF, 0 0 100px #90B7BF, 0 0 200px #90B7BF;
+    }
+
+h4 {
+    box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF;
+}
+
+    h4:hover {
+        box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF, 0 0 50px #90B7BF, 0 0 100px #90B7BF, 0 0 200px #90B7BF;
+    }
+
+/*Border*/
+p.double {
+    border-style: dashed;
+    border-color: #9CC97F;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+/*Other Stuff*/
+html, body, style {
+    height: 100%;
+}
+
+html {
+    display: table;
+    width: 100%;
+}
+
+body {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
