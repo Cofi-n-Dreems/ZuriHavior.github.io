@@ -45,7 +45,7 @@
         <a href="https://www.python.org/"><button style="color: #CDDECB"><img src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?rs=1&pid=ImgDetMain" width="200" height="200" /><br>Python:<br>a high-level, general-purpose programming language</button></a>
         <h2 style="color: #CDDECB">My Other Skills Include:</h2>
         <h4 style="color: #CDDECB">3D Modeler and Animator</h4>
-        <h4 style="color: #CDDECB">Adobe Certified Professional<</h4>
+        <h4 style="color: #CDDECB">Adobe Certified Professional</h4>
         <h2 style="color: #CDDECB;">My Projects:</h2>
         <a href="https://docs.google.com/document/d/1cl4F46m_iaL6CaQ07avzF_dRV4SjLQaTM3N-LQgCbbc/edit?usp=sharing"<button style="color: #CDDECB"><h4>EOR Report</h4></button></a>
         <h2 style=" color: #CDDECB;">Contacts:</h2>
