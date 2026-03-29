@@ -55,19 +55,19 @@ ul {
 }
 /*Glowing Button Animation*/
 button {
-    box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF;
+    box-shadow: 0 0 5px #6CCFF6, 0 0 25px #6CCFF6;
 }
 
     button:hover {
-        box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF, 0 0 50px #90B7BF, 0 0 100px #90B7BF, 0 0 200px #90B7BF;
+        box-shadow: 0 0 5px #6CCFF6, 0 0 25px #6CCFF6, 0 0 50px #6CCFF6, 0 0 100px #6CCFF6, 0 0 200px #6CCFF6;
     }
 
 h4 {
-    box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF;
+    box-shadow: 0 0 5px #6CCFF6, 0 0 25px #6CCFF6;
 }
 
     h4:hover {
-        box-shadow: 0 0 5px #90B7BF, 0 0 25px #90B7BF, 0 0 50px #90B7BF, 0 0 100px #90B7BF, 0 0 200px #90B7BF;
+        box-shadow: 0 0 5px #6CCFF6, 0 0 25px #6CCFF6, 0 0 50px #6CCFF6, 0 0 100px #6CCFF6, 0 0 200px #6CCFF6;
     }
 
 /*Border*/
