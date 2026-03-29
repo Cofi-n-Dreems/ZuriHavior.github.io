@@ -1,6 +1,7 @@
 # ZuriHavior.github.io
 <!DOCTYPE HTML>
 <html>
+<title>Zvior.Portfolio</title>
 <head>
     <link rel="stylesheet"  type="text/css" href="StyleSheet1.css"/>
 </head>
@@ -15,7 +16,7 @@
         </ul>
         <h2 style="color: #CDDECB; ">About Me:</h2>
         <p class=double style="color: #CDDECB;"> My name is Zuri Havior. I'm an innovative individual with a passion for reading, writing, coding, and several other things,<br>My dream jobs include Front-End Web Developer, Graphic Designer, and UI/UX Designer.</br></p>
-        <img src="https://5starassets.blob.core.windows.net/article-photos/2630222/44ba7af4-4c3d-4c44-bfd7-cfc8f2925dbb_640x480.jpg" width="700" height="500" style="border: 3px dashed #9CC97F; "/>
+        <img src="https://5starassets.blob.core.windows.net/article-photos/2630222/44ba7af4-4c3d-4c44-bfd7-cfc8f2925dbb_640x480.jpg" width="700" height="500" style="border: 3px dashed #9CC97F; " />
         <p class="double" style="color: #CDDECB;"> As of May 2025, I've graduated from Lake Ridge Highschool<br>and as of Fall 2025 I will be attending UNT for a Bachelor’s Degree in Computer Science.<br /> </p>
         <h2 style="color: #CDDECB; ">Languages I’m Currently Learning:</h2>
         <style>
@@ -44,8 +45,11 @@
         <a href="https://www.python.org/"><button style="color: #CDDECB"><img src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?rs=1&pid=ImgDetMain" width="200" height="200" /><br>Python:<br>a high-level, general-purpose programming language</button></a>
         <h2 style="color: #CDDECB">My Other Skills Include:</h2>
         <h4 style="color: #CDDECB">3D Modeler and Animator</h4>
-        <h4 style="color: #CDDECB">Adobe Certified Professional<br><a href="https://drive.google.com/file/d/1fOwcr4eSi3gHINxKaN-8scJuijj8zy8Z/view?usp=sharing" target="_blank">Adobe Certificate</a></h4>
+        <h4 style="color: #CDDECB">Adobe Certified Professional<</h4>
         <h2 style="color: #CDDECB;">My Projects:</h2>
+        <a href="https://docs.google.com/document/d/1cl4F46m_iaL6CaQ07avzF_dRV4SjLQaTM3N-LQgCbbc/edit?usp=sharing"<button style="color: #CDDECB"><h4>EOR Report</h4></button></a>
+        <h2 style=" color: #CDDECB;">Contacts:</h2>
+        <a href="https://www.linkedin.com/in/zuri-havior-923720377/"<button style="color: #CDDECB"><h4>Linkedin</h4></button></a>
     </section>
 </body>
 </html>
