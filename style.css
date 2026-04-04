@@ -1,0 +1,85 @@
+/*Centers title on homepage*/
+body {
+    margin: 0;
+    height: 100vh; /*vh = viewport height*/
+    background-color: #00072D;
+    position: relative; /*For absolute positioning*/
+}
+
+h1 {
+    font-family: Georgia, serif;
+        font-size: 5rem;
+        color: white;
+        text-align: center;
+        margin-top: 40px;
+}
+
+/*Fade in animation*/
+.fade-in {
+    opacity: 0; /*Starts invisible*/
+    animation: fadeIn 3s ease-in forwards; /*3s fade-in*/
+}
+
+/*Keyframes for heading fade-in*/
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+/*Keyframes for button fadein*/
+@keyframes fadeUp {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+/*Button Animation*/
+button {
+    color: white;
+    padding: 8px 22px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    /*Button Size*/
+    width: 150px;
+    height: 50px;
+    font-size: 12px;
+}
+button:active {
+    transform: scale(0.96);
+}
+
+/*Button Alignment*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    opacity: 0;
+    animation: fadeUp 1s ease-out forwards;
+    animation-delay: 2.5s;
+}
+
+/*Button Colors*/
+.bio {
+    background: #7261A3
+}
+.projects {
+    background: #52B789
+}
+.contacts {
+    background: #3AB0DB
+}
+.other {
+    background: #F76F8E
+}
+
+/*Text Color*/
+p {
+   color: white;
+   text-align: center;
+}
+
+.animate {
+    opacity: 0;
+    animation: fadeUp 1s ease-out forwards;
+    animation-delay: 2.5s;
+}
