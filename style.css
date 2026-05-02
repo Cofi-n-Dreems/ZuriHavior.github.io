@@ -2,7 +2,7 @@
 body {
     margin: 0;
     height: 100vh; /*vh = viewport height*/
-    background-color: #00072D;
+    background-color: #03110D;
     position: relative; /*For absolute positioning*/
 }
 
@@ -17,7 +17,7 @@ h1 {
 /*Fade in animation*/
 .fade-in {
     opacity: 0; /*Starts invisible*/
-    animation: fadeIn 3s ease-in forwards; /*3s fade-in*/
+    animation: fadeIn 2s ease-in forwards; /*2s fade-in*/
 }
 
 /*Keyframes for heading fade-in*/
@@ -58,28 +58,48 @@ button:active {
     animation-delay: 2.5s;
 }
 
-/*Button Colors*/
+/*Button Colors & Glow*/
 .bio {
-    background: #7261A3
+    background: #390517;
+    box-shadow: 0 0 5px #390517, 0 0 25px #390517;
+}
+.bio:hover {
+        box-shadow: 0 0 5px #390517, 0 0 25px #390517, 0 0 5px #390517, 
+            0 0 100px #390517, 0 0 200px #390517;
 }
 .projects {
-    background: #52B789
+    background: #A38560;
+    box-shadow: 0 0 5px #A38560, 0 0 25px #A38560;
+}
+.projects:hover {
+        box-shadow: 0 0 5px #A38560, 0 0 25px #A38560, 
+            0 0 5px #A38560, 0 0 100px #A38560, 0 0 200px #A38560;
 }
 .contacts {
-    background: #3AB0DB
+    background: #16302B;
+    box-shadow: 0 0 5px #16302B, 0 0 25px #16302B;
+}
+.contacts:hover {
+        box-shadow: 0 0 5px #16302B, 0 0 25px #16302B, 
+            0 0 5px #16302B, 0 0 100px #16302B, 0 0 200px #16302B;
 }
 .other {
-    background: #F76F8E
+    background: #BB6830;
+    box-shadow: 0 0 5px #BB6830, 0 0 25px #BB6830;
+}
+.other:hover {
+        box-shadow: 0 0 5px #BB6830, 0 0 25px #BB6830, 
+            0 0 5px #BB6830, 0 0 100px #BB6830, 0 0 200px #BB6830;
 }
 
 /*Text Color*/
 p {
-   color: white;
+   color: #E0E0E0;
    text-align: center;
 }
 
 .animate {
     opacity: 0;
     animation: fadeUp 1s ease-out forwards;
-    animation-delay: 2.5s;
+    animation-delay: 1s;
 }
